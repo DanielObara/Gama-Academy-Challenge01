@@ -103,12 +103,12 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 
 <!-- LICENSE -->
 
-## :memo: License
+## License :memo: 
 
 This project is under the MIT license. See the [LICENSE](https://github.com/danielobara/Gama-Academy-Challenge01/blob/master/LICENSE) for more information.
 
 <!-- CONTACT -->
+
 ## Contato
 
----
 Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
