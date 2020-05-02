@@ -19,12 +19,11 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/Gama-Academy-Challenge01?style=social">
   </a>
 </p>
+<p align="center">
+    <img alt="GamaHacker" title="#GamaHacker" src=".github/hacker.svg" width="50px" />
+</p>
 
 <!-- TABLE OF CONTENTS -->
-
-<h1 align="center">
-    <img alt="GamaHacker" title="#GamaHacker" src=".github/hacker.svg" width="50px" />
-</h1>
 
 ## Tabela de Conteúdo
 
