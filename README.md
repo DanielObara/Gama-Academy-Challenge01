@@ -19,9 +19,6 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/Gama-Academy-Challenge01?style=social">
   </a>
 </p>
-<p align="center">
-    <img alt="GamaHacker" title="#GamaHacker" src=".github/hacker.svg" width="50px" />
-</p>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -38,9 +35,11 @@
 - [Contato](#contato)
 
 <!-- ABOUT THE PROJECT -->
-
+<p align="center">
+    <img alt="GamaHacker" title="#GamaHacker" src=".github/hacker.svg" width="50px" />
+</p>
 ## Sobre o Projeto 💻
-Este projeto visa a criação de uma calculadora de churrasco no qual será utilizado o número de pessoas para o resultado da quantidade necessária de carne, acompanhamentos e bebidas vulgo cerveja 🍺 😁.
+Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O projeto visa a criação de uma calculadora de churrasco no qual será utilizado o número de pessoas para o resultado da quantidade necessária de carne, acompanhamentos e bebidas vulgo cerveja 🍺 😁.
 
 ### Feito Com 🚀
 
