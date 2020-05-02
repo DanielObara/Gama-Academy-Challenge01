@@ -23,7 +23,7 @@
 <!-- TABLE OF CONTENTS -->
 
 <h1 align="center">
-    <img alt="GamaAcademy" title="#GamaAcademy" src=".github/hacker.png" width="150px" />
+    <img alt="GamaHacker" title="#GamaHacker" src=".github/hacker.svg" width="50px" />
 </h1>
 
 ## Tabela de Conteúdo
@@ -108,5 +108,6 @@ This project is under the MIT license. See the [LICENSE](https://github.com/dani
 
 <!-- CONTACT -->
 ## Contato
+
 ---
 Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
