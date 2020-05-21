@@ -111,4 +111,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/dani
 
 ## Contato
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Gama Academy :wave: [Get in touch!](https://www.linkedin.com/school/gama-academy/)
